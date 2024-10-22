@@ -41,36 +41,45 @@ Chart Type: Line Chart.
 <img width="900" alt="Coding" src="https://github.com/ShubhangiLokhande123/Blinkit_PowerBI_Dashboard/blob/main/Screenshot%202024-10-21%20190327.png">
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used🛠️: Power BI</li>
-<li> Data set used: <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final">
+<li> Data set used: <a [href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-fina](https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset)l">
          <img src=" BlinkIT Grocery Data" alt="">BlinkIT Grocery Data</a></li></ul>
 <p>This Power BI project employs a diverse range of visualizations, including bar charts, slicers, line charts, pie charts, tables, and cards. Each visualization is thoughtfully chosen to represent data in the most informative and visually engaging manner.</p>
-<h1><a name="Learned from this project">Learned from this project</a></h1>
+<h1><a name="what I have learned through the development of the Blinkit Data Analysis Dashboard">What I have learned through the development of the Blinkit Data Analysis Dashboard</a></h1>
 <p>
+  
   1. Data Preparation and Cleaning:
 Understood the importance of data preprocessing to ensure data quality before analysis.
 Learned techniques for handling missing values, removing duplicates, and ensuring data consistency.
 Enhanced ability to reshape and structure data to suit the analysis requirements for better visualization.
+  
   2. Advanced Data Visualization Techniques:
 Gained hands-on experience with various chart types (donut chart, bar chart, stacked column chart, line chart) to represent different data metrics effectively.
 Developed skills in visual storytelling, understanding which chart type best fits specific data insights.
 Used Power BI’s DAX functions for dynamic data visualization and real-time data interactivity.
+ 
   3. KPI Identification and Analysis:
 Learned how to identify and create Key Performance Indicators (KPIs) that are most relevant to the business needs, such as total sales, average sales, and customer ratings.
 Acquired the ability to compare and analyze KPIs to understand the impact of various factors like fat content, item type, and outlet performance on total sales.
+ 
   4. Data-Driven Decision Making:
 Developed the capability to interpret data insights for business decision-making, such as optimizing product categories or improving outlet operations based on sales performance.
 Gained an understanding of how data analytics can influence operational efficiency and customer satisfaction.
+  
   5. Power BI Functionalities:
 Learned how to use Power BI’s advanced features, such as interactive filters, drill-down capabilities, and data relationships, to create a dynamic and user-friendly dashboard.
 Enhanced understanding of Power Query for data transformation and how to combine multiple datasets for a holistic analysis.
+ 
   6. Performance Optimization:
 Understood the importance of dashboard performance optimization, especially when working with large datasets, to ensure smooth interactions and fast load times.
+ 
   7. Insights Communication:
 Developed skills in presenting insights effectively to stakeholders using data dashboards, ensuring the results are clear, actionable, and easy to understand.
 Learned to translate complex data into simple, intuitive visual representations to inform business strategies.
+  
   8. Real-World Application of Data Analytics:
 Gained practical exposure to solving real-world business challenges through data analytics, such as sales trends analysis and outlet performance comparison.
 Improved ability to leverage data for continuous monitoring and strategic planning in a business context like Blinkit. 
+ 
   9. DAX (Data Analysis Expressions) Mastery:
 Gained a strong understanding of DAX functions in Power BI to perform complex calculations and create dynamic measures, such as calculating total sales, average ratings, and other custom metrics, enabling more granular and insightful analysis of business data.
 </p>
