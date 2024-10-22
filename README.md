@@ -41,7 +41,7 @@ Chart Type: Line Chart.
 <img width="900" alt="Coding" src="https://github.com/ShubhangiLokhande123/Blinkit_PowerBI_Dashboard/blob/main/Screenshot%202024-10-21%20190327.png">
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used🛠️: Power BI</li>
-<li> Data set used: <a [href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-fina](https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset)l">
+<li> Data set used: <a href="https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset">
          <img src=" BlinkIT Grocery Data" alt="">BlinkIT Grocery Data</a></li></ul>
 <p>This Power BI project employs a diverse range of visualizations, including bar charts, slicers, line charts, pie charts, tables, and cards. Each visualization is thoughtfully chosen to represent data in the most informative and visually engaging manner.</p>
 <h1><a name="what I have learned through the development of the Blinkit Data Analysis Dashboard">What I have learned through the development of the Blinkit Data Analysis Dashboard</a></h1>
